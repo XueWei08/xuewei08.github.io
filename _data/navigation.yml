@@ -1,4 +1,15 @@
-- title: Blog
-  url: /
 - title: About
   url: /about/
+- title: Research
+  url: /research/
+- title: Publications
+  url: /publications/
+- title: Awards
+  url: /awards/
+- title: Resume
+  url: /about/Resume.pdf
+#   /resume.html
+#    <a href="" target="_blank">PDF.</a>
+# - type: tags
+#   title: Tags
+#   url: /tags/
