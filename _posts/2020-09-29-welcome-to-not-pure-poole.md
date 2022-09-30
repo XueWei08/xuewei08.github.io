@@ -1,10 +1,10 @@
 ---
 layout: post
-title: about
-<!-- date: 2020-09-29 23:18 +0800 -->
-<!-- last_modified_at: 2020-10-01 01:08:25 +0800 -->
-<!-- tags: [jekyll theme, jekyll, tutorial] -->
-<!-- toc:  true -->
+title: about78
+date: 2020-09-29 23:18 +0800
+last_modified_at: 2020-10-01 01:08:25 +0800
+tags: [jekyll theme, jekyll, tutorial]
+toc:  true
 ---
 Welcome to **Not Pure Poole**! This is an example post to show the layout.
 
@@ -12,7 +12,7 @@ Welcome to **Not Pure Poole**! This is an example post to show the layout.
 awards
 
 
-<!-- {: .message } -->
+{: .message }
 
 First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
 
