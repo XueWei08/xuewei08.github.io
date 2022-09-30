@@ -8,4 +8,4 @@ title: About
 For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
 
 
-[Email](xwei4@albany.edu)  /  Google Scholar  /  Linkedin  /  CV
+[Email](xwei4@albany.edu)  /  [Google Scholar](https://scholar.google.com/citations?user=k_yYzV4AAAAJ&hl=en)  /  [Linkedin](https://www.linkedin.com/in/xue-wei-752275231/)  /  CV
