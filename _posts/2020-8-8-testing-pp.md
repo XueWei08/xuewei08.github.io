@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: about
 ---
 The Jekyll theme **Not Pure Poole** v0.1.0 was released!
