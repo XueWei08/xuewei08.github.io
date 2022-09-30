@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: rewards
 <!-- author: Songzi Vong -->
 <!-- tags:
