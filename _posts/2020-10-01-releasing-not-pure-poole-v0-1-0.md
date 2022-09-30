@@ -13,6 +13,6 @@ Not Pure Poole is a simple, beautiful, and powerful Jekyll theme for blogs. It i
 
 For more information about this theme, you can read the [README](https://github.com/vszhub/not-pure-poole/blob/master/README.md) file.
 
-
+kjgkgkgkgk
 
 dhhgdhjhjjhjhjh
