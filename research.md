@@ -12,7 +12,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
  -->
  
 
-<h2>Research</h2>
+<!-- <h2>Research</h2> -->
 
 <h3>RFI cancellation using RIS</h3>
   <p style="text-align:left;">
