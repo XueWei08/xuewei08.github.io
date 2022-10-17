@@ -11,7 +11,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 [Email](mailto://xwei4@albany.edu)  /  [Google Scholar](https://scholar.google.com/citations?user=k_yYzV4AAAAJ&hl=en)  /  [Linkedin](https://www.linkedin.com/in/xue-wei-752275231/)  /  CV
  -->
  
- 
+<!--  
  </tbody></table>
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
@@ -60,12 +60,12 @@ For more information about Not Pure Poole, please browse the [README](https://gi
               </td>
             </tr>
           </tbody></table>
-
+ -->
  
  
  
  
-<!--  Key generation 2022 – present
+ Key generation 2022 – present
 Advised by: Dr. Dola Saha
 • propose a Key Generation model using neural networks from wireless Channels
 • extract the implicit features of channel in a compressed form to derive keys with high KGR and low KDR
@@ -82,4 +82,4 @@ Advised by: Dr. Weifu Wang
 • offer a systematic exploration of how to decompose complicated physical motions to make motion more
 interpretable and easier to learn for humans
 • build a teaching environment in a virtual environment (VR + unity)
-• use real robot teaching frontend to demonstrate motion clips(sign language, breaststroke, butterfly, etc) -->
+• use real robot teaching frontend to demonstrate motion clips(sign language, breaststroke, butterfly, etc)
