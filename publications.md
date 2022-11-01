@@ -31,7 +31,7 @@ in 2018 International Conference on Intelligence Science and Big Data Engineerin
 
 
 * Multistage 2D DOA Estimation in Low SNR <br/>
-<ins>Xue Wei<ins>, Dola Saha, Aveek Dutta, Gregory Hellbourg <br/>
+<ins>Xue Wei</ins>, Dola Saha, Aveek Dutta, Gregory Hellbourg <br/>
 IEEE International Conference on Communications (ICC) 2023 (Under Review)
   
 Journals:
