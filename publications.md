@@ -6,11 +6,11 @@ title:Publications
 
 
 * SCISRS: Signal Cancellation using Intelligent Surfaces for Radio Astronomy Services<br/>
-Z ZOU, X Wei*, A Dutta, D Saha, G Hellbourg<br/>
+Z ZOU, <ins>X Wei</ins>X Wei*, A Dutta, D Saha, G Hellbourg<br/>
 in 2022 IEEE Global Communications Conference (GLOBECOM).
 
 * KNEW: Key Generation using NEural Networks from Wireless Channels <br/>
-****Xue Wei*** and Dola Saha
+***Xue Wei*** and Dola Saha
 in ACM Wireless Security and Machine Learning (WiseML) 2022.
 
 * Adversarial Learning for Hiding Wireless Signals<br/>
