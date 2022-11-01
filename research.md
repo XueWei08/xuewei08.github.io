@@ -25,7 +25,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
   <p> • find the solution of amplitude and phase of each element of RIS to reflect incident RFI of RIS in order to cancel RFI in the telescope</p>
 
 <h3>Key generation</h3>
-  <p> Advised by: Dr. Dola Saha 2022 – present</p> 
+<!--   <p> Advised by: Dr. Dola Saha 2022 – present</p>  -->
   <p style="text-align:left;">
       Advised by: Dr. Dola Saha 
      <span style="float:right;">
@@ -36,7 +36,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
   <p> • extract the implicit features of channel in a compressed form to derive keys with high KGR and low KDR</p>
 
 <h3>Wireless steganography</h3>
-  <p> Advised by: Dr. Dola Saha 2021 – present</p> 
+<!--   <p> Advised by: Dr. Dola Saha 2021 – present</p>  -->
  <p style="text-align:left;">
       Advised by: Dr. Dola Saha 
      <span style="float:right;">
@@ -49,7 +49,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
  <p> • transmit signals over the air and apply the transfer learning method to retrain the model again to further optimize the system and get a lower bit error rate </p>
 
 <h3>Teaching human motion</h3>
- <p> Advised by: Dr. Weifu Wang 2019 – 2020</p> 
+<!--  <p> Advised by: Dr. Weifu Wang 2019 – 2020</p>  -->
  <p style="text-align:left;">
       Advised by: Dr. Weifu Wang 
      <span style="float:right;">
