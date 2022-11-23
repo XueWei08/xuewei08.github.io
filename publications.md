@@ -6,6 +6,11 @@ title:Publications
 <!-- ***Xue Wei*** -->
 
 Conferences:
+
+* Multistage 2D DOA Estimation in Low SNR <br/>
+<ins>Xue Wei</ins>, Dola Saha, Gregory Hellbourg, Aveek Dutta <br/>
+IEEE International Conference on Communications (ICC) 2023 (Under Review)
+
 * SCISRS: Signal Cancellation using Intelligent Surfaces for Radio Astronomy Services<br/>
 Zhibin Zou, <ins>Xue Wei</ins>, Dola Saha, Aveek Dutta, Gregory Hellbourg <br/>
 in 2022 IEEE Global Communications Conference (GLOBECOM).
@@ -18,8 +23,6 @@ in ACM Wireless Security and Machine Learning (WiseML) 2022.
 Hesham Mohammed, <ins>Xue Wei</ins> and Dola Saha <br/>
 in 2021 IEEE Global Communications Conference (GLOBECOM).
 
-
-
 * A Level Set Algorithm Based on Probabilistic Statistics for MR Image Segmentation<br/>
 Jin Liu, <ins>Xue Wei</ins>, Qi Li, Langlang Li <br/>
 in 2018 International Conference on Intelligence Science and Big Data Engineering, (2018), PP.577–586.
@@ -30,9 +33,6 @@ in 2018 International Conference on Intelligence Science and Big Data Engineerin
 
 
 
-* Multistage 2D DOA Estimation in Low SNR <br/>
-<ins>Xue Wei</ins>, Dola Saha, Aveek Dutta, Gregory Hellbourg <br/>
-IEEE International Conference on Communications (ICC) 2023 (Under Review)
   
 Journals:
 * MR Image Segmentation Based on Level Set Method <br/>
