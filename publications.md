@@ -35,12 +35,14 @@ in 2018 International Conference on Intelligence Science and Big Data Engineerin
 
   
 Journals:
+* Waveform Independent Practical Covert Communication <br/>
+<ins>Xue Wei</ins> and Dola Saha(Under Review).
+
 * MR Image Segmentation Based on Level Set Method <br/>
 Jin Liu, <ins>Xue Wei</ins>, Langlang Li. <br/>
 Multimedia Tools and Applications, 79, pages 11487–11502 (2020).
 
-* Waveform Independent Practical Covert Communication <br/>
-<ins>Xue Wei</ins> and Dola Saha(Under Review).
+
 
 <!-- **Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
 
