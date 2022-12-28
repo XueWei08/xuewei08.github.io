@@ -42,7 +42,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
       2022 – present
      </span>
   </p>
-  ![Alt text](/file/key_gen_high_level.pdf?raw=true "Title")
+  ![Alt text](/file/cat.jpeg?raw=true "Title")
   <p> • propose a Key Generation model using neural networks from wireless Channels</p>
   <p> • extract the implicit features of channel in a compressed form to derive keys with high KGR and low KDR</p>
 
