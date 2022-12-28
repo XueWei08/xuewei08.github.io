@@ -21,6 +21,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
         2022 – present
        </span>
   </p>
+  ![Alt text](/file/algo_1.pdf)![Alt text](/file/algo_1.pdf)![Alt text](/file/algo_1.pdf)
   <p> • propose a three stage algorithm that methodically exploits digital beamforming, creates virtual subarrays, inspects multiple options and       
   introduces clustering to estimate the DoA in low SNRs</p>
 
@@ -31,6 +32,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
         2022 – present
        </span>
   </p>
+<!--   ![Alt text](/file/wise_system.pdf) -->
   <p> • estimate incident RFI of the telescope and configure Reconfigurable Intelligent Surface(number, spacing, etc.)</p>
   <p> • find the solution of amplitude and phase of each element of RIS to reflect incident RFI of RIS in order to cancel RFI in the telescope</p>
 
@@ -42,7 +44,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
       2022 – present
      </span>
   </p>
-  ![Alt text](/file/key_gen_high_level.pdf?raw=true "Title")
+  ![Alt text](/file/key_gen_high_level.pdf)
   <p> • propose a Key Generation model using neural networks from wireless Channels</p>
   <p> • extract the implicit features of channel in a compressed form to derive keys with high KGR and low KDR</p>
 
@@ -54,6 +56,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
       2021 – present
      </span>
   </p>
+  ![Alt text](/file/wise_system.pdf)
  <p> • design a complex-valued neural network to hide the transmission of secret signals</p>
  <p> • this method has nothing to do with any properties of the covert signal (such as waveform or modulation order)</p>
  <p> • use complex-valued neural networks, which is more powerful and has a faster learning speed than real-valued neural network</p>
