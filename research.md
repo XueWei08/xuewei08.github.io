@@ -100,10 +100,10 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 
   
   
- <p> • offer a systematic exploration of how to decompose complicated physical motions to make motion more
+<!--  <p> • offer a systematic exploration of how to decompose complicated physical motions to make motion more
  <p> • interpretable and easier to learn for humans
  <p> •  build a teaching environment in a virtual environment (VR + unity)
- <p> •  use real robot teaching frontend to demonstrate motion clips(sign language, breaststroke, butterfly, etc)</p>
+ <p> •  use real robot teaching frontend to demonstrate motion clips(sign language, breaststroke, butterfly, etc)</p> -->
 
  
  
