@@ -103,7 +103,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 <figure class="third">
     <img src="./file/IMG_3668_MOV_AdobeExpress.gif" width="200"/><img src="./file/IMG_3668_MOV_AdobeExpress.gif" width="200"/>
 </figure>
-  
+  oo
  <p> • offer a systematic exploration of how to decompose complicated physical motions to make motion more
  <p> • interpretable and easier to learn for humans
  <p> •  build a teaching environment in a virtual environment (VR + unity)
