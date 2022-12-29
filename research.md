@@ -22,7 +22,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
        </span>
   </p>
   ![Alt text](/file/DOA.png)
-  <img src="/file/DOA.png" width="200">
+<!--   <img src="/file/DOA.png" width="200"> -->
   <p> • propose a three stage algorithm that methodically exploits digital beamforming, creates virtual subarrays, inspects multiple options and       
   introduces clustering to estimate the DoA in low SNRs</p>
 
@@ -71,6 +71,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
       2019 – 2020
      </span>
   </p>
+  
  <p> • offer a systematic exploration of how to decompose complicated physical motions to make motion more
  <p> • interpretable and easier to learn for humans
  <p> •  build a teaching environment in a virtual environment (VR + unity)
