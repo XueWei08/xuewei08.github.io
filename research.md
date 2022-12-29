@@ -70,7 +70,11 @@ For more information about Not Pure Poole, please browse the [README](https://gi
      <span style="float:right;">
       2019 – 2020
      </span>
-  </p>
+</p>
+https://user-images.githubusercontent.com/99225857/209890847-6b50521c-bbf6-437c-ad87-67a6186aa5bb.mov
+
+
+  
   
  <p> • offer a systematic exploration of how to decompose complicated physical motions to make motion more
  <p> • interpretable and easier to learn for humans
