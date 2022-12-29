@@ -34,6 +34,8 @@ For more information about Not Pure Poole, please browse the [README](https://gi
        </span>
   </p>
 <!--   ![Alt text](/file/wise_system.pdf) -->
+![Alt text](/file/ris.png)
+<!--   ![Alt text](/file/wise_system.pdf) -->
   <p> • estimate incident RFI of the telescope and configure Reconfigurable Intelligent Surface(number, spacing, etc.)</p>
   <p> • find the solution of amplitude and phase of each element of RIS to reflect incident RFI of RIS in order to cancel RFI in the telescope</p>
 
