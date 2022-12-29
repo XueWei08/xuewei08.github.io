@@ -76,9 +76,9 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 
 <!--  ![Alt text](/file/IMG_3674-2-2-2_AdobeExpress.gif) -->
 <p style="text-align:left;">
-      <img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="100"> 
+      <img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="300"> 
      <span style="float:right;">
-      <img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="100">
+      <img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="300">
      </span>
 </p>
  <p><img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="100"> <img src="/file/IMG_3674_MOV_AdobeExpress.gif" width="100"> </p>
