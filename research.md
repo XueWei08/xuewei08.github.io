@@ -100,7 +100,9 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 <center class="half">
     <img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="100"/><img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="100"/>
 </center>
-  
+<figure class="third">
+    <img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="200"/><img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="200"/>
+</figure>
   
  <p> • offer a systematic exploration of how to decompose complicated physical motions to make motion more
  <p> • interpretable and easier to learn for humans
