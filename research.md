@@ -22,7 +22,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
        </span>
   </p>
 <!--   ![Alt text](/file/algo_1.png) -->
-  <img src="/file/algo_1.jpg" width="200">
+  <img src="/file/algo_1.jpg" width="200"><img src="/file/algo_2.jpg" width="200"><img src="/file/algo_3.jpg" width="200">
   <p> • propose a three stage algorithm that methodically exploits digital beamforming, creates virtual subarrays, inspects multiple options and       
   introduces clustering to estimate the DoA in low SNRs</p>
 
