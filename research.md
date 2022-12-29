@@ -75,13 +75,13 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 </p>
 
 <!--  ![Alt text](/file/IMG_3674-2-2-2_AdobeExpress.gif) -->
-<p style="text-align:left;">
-      <img src="./file/IMG_3668_MOV_AdobeExpress.gif" width="150"> 
+<!-- <p style="text-align:left;">
+      <img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="150"> 
      <span style="float:right;">
-      <img src="./file/IMG_3668_MOV_AdobeExpress.gif" width="150">
+      <img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="150">
      </span>
-</p>
-<!--  <p><img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="100"> <img src="/file/IMG_3674_MOV_AdobeExpress.gif" width="100"> </p> -->
+</p> -->
+ <p><img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="300"> <img src="/file/IMG_3674_MOV_AdobeExpress.gif" width="300"> </p>
 <!--  <p float="left">
   <img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="100" />
   <img src="/file/IMG_3674_MOV_AdobeExpress.gif" width="100" /> 
@@ -97,13 +97,13 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 
 
 
-<center class="half">
-    <img src="./file/IMG_3668_MOV_AdobeExpress.gif" width="100"/><img src="./file/IMG_3668_MOV_AdobeExpress.gif" width="100"/>
+<!-- <center class="half">
+    <img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="100"/><img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="100"/>
 </center>
 <figure class="third">
-    <img src="./file/IMG_3668_MOV_AdobeExpress.gif" width="200"/><img src="./file/IMG_3668_MOV_AdobeExpress.gif" width="200"/>
+    <img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="200"/><img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="200"/>
 </figure>
-  oo
+   -->
  <p> • offer a systematic exploration of how to decompose complicated physical motions to make motion more
  <p> • interpretable and easier to learn for humans
  <p> •  build a teaching environment in a virtual environment (VR + unity)
