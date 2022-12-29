@@ -4,6 +4,15 @@ title:Publications
 ---
 
 <!-- ***Xue Wei*** -->
+Journals:
+* Waveform Independent Practical Covert Communication <br/>
+<ins>Xue Wei</ins> and Dola Saha(Under Review).
+
+* MR Image Segmentation Based on Level Set Method <br/>
+Jin Liu, <ins>Xue Wei</ins>, Langlang Li. <br/>
+Multimedia Tools and Applications, 79, pages 11487–11502 (2020).
+
+
 
 Conferences:
 
@@ -34,13 +43,7 @@ in 2018 International Conference on Intelligence Science and Big Data Engineerin
 
 
   
-Journals:
-* Waveform Independent Practical Covert Communication <br/>
-<ins>Xue Wei</ins> and Dola Saha(Under Review).
 
-* MR Image Segmentation Based on Level Set Method <br/>
-Jin Liu, <ins>Xue Wei</ins>, Langlang Li. <br/>
-Multimedia Tools and Applications, 79, pages 11487–11502 (2020).
 
 
 
