@@ -72,7 +72,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
      </span>
 </p>
 
-
+ ![Alt text](/file/IMG_3674-2-2-2_AdobeExpress.gif)
 https://user-images.githubusercontent.com/99225857/209892872-baae0b1d-4e83-4278-b8a4-aaac10cae0eb.mov
 
 
