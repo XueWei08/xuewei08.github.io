@@ -24,6 +24,8 @@ For more information about Not Pure Poole, please browse the [README](https://gi
   ![Alt text](/file/algo_1.png)
   ![](./file/algo_1.png =100x20)
   jokjk
+  ![](./file/algo_1.png =x250)
+  ![](./file/algo_1.png =100x100)
   <p> • propose a three stage algorithm that methodically exploits digital beamforming, creates virtual subarrays, inspects multiple options and       
   introduces clustering to estimate the DoA in low SNRs</p>
 
@@ -47,7 +49,6 @@ For more information about Not Pure Poole, please browse the [README](https://gi
      </span>
   </p>
   ![Alt text](/file/key_gen_high_level.pdf)
-  <iframe width="100%" height="100" src="/file/key_gen_high_level.pdf">
   <p> • propose a Key Generation model using neural networks from wireless Channels</p>
   <p> • extract the implicit features of channel in a compressed form to derive keys with high KGR and low KDR</p>
 
