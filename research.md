@@ -98,7 +98,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 
 
 <center class="half">
-    <img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="200"/><img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="200"/>
+    <img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="100"/><img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="100"/>
 </center>
   
   
