@@ -81,7 +81,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
       <img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="150">
      </span>
 </p> -->
- <p><img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="300"> <img src="/file/IMG_3674_MOV_AdobeExpress.gif" width="300"> </p>
+ <p><img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="400"> <img src="/file/IMG_3674_MOV_AdobeExpress.gif" width="400"> </p>
 <!--  <p float="left">
   <img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="100" />
   <img src="/file/IMG_3674_MOV_AdobeExpress.gif" width="100" /> 
