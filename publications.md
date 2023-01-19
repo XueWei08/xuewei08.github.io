@@ -19,7 +19,7 @@ Conferences:
 
 * Multistage 2D DOA Estimation in Low SNR <br/>
 <ins>Xue Wei</ins>, Dola Saha, Gregory Hellbourg, Aveek Dutta <br/>
-IEEE International Conference on Communications (ICC) 2023.
+IEEE International Conference on Communications (ICC) 2023....
 
 * SCISRS: Signal Cancellation using Intelligent Surfaces for Radio Astronomy Services<br/>
 Zhibin Zou, <ins>Xue Wei</ins>, Dola Saha, Aveek Dutta, Gregory Hellbourg <br/>
