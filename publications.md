@@ -5,10 +5,11 @@ title: Publications
 
 <!-- ***Xue Wei*** -->
 Journals:
-* Waveform Independent Practical Covert Communication <br/>
-<ins>Xue Wei</ins> and Dola Saha(Under Review).
+1. Waveform Independent Practical Covert Communication <br/>
+<ins>Xue Wei</ins> and Dola Saha <br/>
+IEEE Transactions on Machine Learning in Communications and Networking(Under Review).
 
-* MR Image Segmentation Based on Level Set Method <br/>
+2. MR Image Segmentation Based on Level Set Method <br/>
 Jin Liu, <ins>Xue Wei</ins>, Langlang Li. <br/>
 Multimedia Tools and Applications, 79, pages 11487–11502 (2020).
 
@@ -17,27 +18,27 @@ Multimedia Tools and Applications, 79, pages 11487–11502 (2020).
 
 Conferences:
 
-* Multistage 2D DOA Estimation in Low SNR <br/>
+1. Multistage 2D DOA Estimation in Low SNR <br/>
 <ins>Xue Wei</ins>, Dola Saha, Gregory Hellbourg, Aveek Dutta <br/>
 IEEE International Conference on Communications (ICC) 2023.
 
-* SCISRS: Signal Cancellation using Intelligent Surfaces for Radio Astronomy Services<br/>
+2. SCISRS: Signal Cancellation using Intelligent Surfaces for Radio Astronomy Services<br/>
 Zhibin Zou, <ins>Xue Wei</ins>, Dola Saha, Aveek Dutta, Gregory Hellbourg <br/>
 in 2022 IEEE Global Communications Conference (GLOBECOM).
 
-* KNEW: Key Generation using NEural Networks from Wireless Channels <br/>
+3. KNEW: Key Generation using NEural Networks from Wireless Channels <br/>
 <ins>Xue Wei</ins> and Dola Saha
 in ACM Wireless Security and Machine Learning (WiseML) 2022.
 
-* Adversarial Learning for Hiding Wireless Signals<br/>
+4. Adversarial Learning for Hiding Wireless Signals<br/>
 Hesham Mohammed, <ins>Xue Wei</ins> and Dola Saha <br/>
 in 2021 IEEE Global Communications Conference (GLOBECOM).
 
-* A Level Set Algorithm Based on Probabilistic Statistics for MR Image Segmentation<br/>
+5. A Level Set Algorithm Based on Probabilistic Statistics for MR Image Segmentation<br/>
 Jin Liu, <ins>Xue Wei</ins>, Qi Li, Langlang Li <br/>
 in 2018 International Conference on Intelligence Science and Big Data Engineering, (2018), PP.577–586.
 
-* Collaborative Error Propagation for Single Sample Face Recognition <br/>
+6. Collaborative Error Propagation for Single Sample Face Recognition <br/>
 Jin Liu, Langlang Li, <ins>Xue Wei</ins> <br/>
 in 2018 International Conference on Intelligence Science and Big Data Engineering,(2018), PP. 339–348.
 
