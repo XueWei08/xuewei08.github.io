@@ -5,7 +5,7 @@ title: Publications
 
 <!-- ***Xue Wei*** -->
 Journals:
-1. Waveform Independent Practical Covert Communication <br/>
+1. WISE: Waveform Independent Signal Embedding for Covert Communication <br/>
 <strong>Xue Wei</strong> and Dola Saha <br/>
 IEEE Transactions on Machine Learning in Communications and Networking(Under Review).
 
