@@ -24,6 +24,12 @@ title:Awards
 * 2013 Third Class Scholarship  &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;  Xidian University -->
 
 <p style="text-align:left;">
+    ACM SIGCOMM 2023 Student Travel Grant 
+   <span style="float:right;">
+    SIGCOMM2023
+   </span>
+</p>
+<p style="text-align:left;">
     ACM WiSec2022 Student Travel Grants
    <span style="float:right;">
     Wisec2022
