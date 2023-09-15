@@ -17,28 +17,31 @@ Multimedia Tools and Applications, 79, pages 11487–11502 (2020).
 
 
 Conferences:
+1. KNEW: Key Generation using NEural Networks from Wireless Channels <br/>
+<strong>Xue Wei</strong> and Dola Saha <br/>
+N2Women Workshop ACM SIGCOMM 2023
 
-1. Multistage 2D DOA Estimation in Low SNR <br/>
+2. Multistage 2D DOA Estimation in Low SNR <br/>
 <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg, Aveek Dutta <br/>
 IEEE International Conference on Communications (ICC) 2023.
 
-2. SCISRS: Signal Cancellation using Intelligent Surfaces for Radio Astronomy Services<br/>
+3. SCISRS: Signal Cancellation using Intelligent Surfaces for Radio Astronomy Services<br/>
 Zhibin Zou, <strong>Xue Wei</strong>, Dola Saha, Aveek Dutta, Gregory Hellbourg <br/>
 in 2022 IEEE Global Communications Conference (GLOBECOM).
 
-3. KNEW: Key Generation using NEural Networks from Wireless Channels <br/>
+4. KNEW: Key Generation using NEural Networks from Wireless Channels <br/>
 <strong>Xue Wei</strong> and Dola Saha
 in ACM Wireless Security and Machine Learning (WiseML) 2022.
 
-4. Adversarial Learning for Hiding Wireless Signals<br/>
+5. Adversarial Learning for Hiding Wireless Signals<br/>
 Hesham Mohammed, <strong>Xue Wei</strong> and Dola Saha <br/>
 in 2021 IEEE Global Communications Conference (GLOBECOM).
 
-5. A Level Set Algorithm Based on Probabilistic Statistics for MR Image Segmentation<br/>
+6. A Level Set Algorithm Based on Probabilistic Statistics for MR Image Segmentation<br/>
 Jin Liu, <strong>Xue Wei</strong>, Qi Li, Langlang Li <br/>
 in 2018 International Conference on Intelligence Science and Big Data Engineering, (2018), PP.577–586.
 
-6. Collaborative Error Propagation for Single Sample Face Recognition <br/>
+7. Collaborative Error Propagation for Single Sample Face Recognition <br/>
 Jin Liu, Langlang Li, <strong>Xue Wei</strong> <br/>
 in 2018 International Conference on Intelligence Science and Big Data Engineering,(2018), PP. 339–348.
 
