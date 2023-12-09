@@ -19,7 +19,7 @@ Multimedia Tools and Applications, 79, pages 11487–11502 (2020).
 Conferences:
 1. RIS for Signal Cancellation in 3D <br/>
 <strong>Xue Wei</strong>, Anushka Gupta, Aveek Dutta, Dola Saha and Gregory Hellbourg <br/>
-IEEE International Symposium on Dynamic Spectrum Access Networks~(DySPAN) 2024 (Under Review).
+IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN) 2024 (Under Review).
 
 2. KNEW: Key Generation using NEural Networks from Wireless Channels <br/>
 <strong>Xue Wei</strong> and Dola Saha <br/>
