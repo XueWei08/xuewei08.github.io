@@ -35,7 +35,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
   </p>
   ![Alt text](/file/DOA.png)
 <!--   <img src="/file/DOA.png" width="200"> -->
-  <p> • propose a three stage algorithm that methodically exploits digital beamforming, creates virtual subarrays, inspects multiple options and       
+  <p> • Propose a three stage algorithm that methodically exploits digital beamforming, creates virtual subarrays, inspects multiple options and       
   introduces clustering to estimate the DoA in low SNRs</p>
 
 <h3>RFI cancellation using RIS</h3>
@@ -48,8 +48,8 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 <!--   ![Alt text](/file/wise_system.pdf) -->
 ![Alt text](/file/ris.png)
 <!--   ![Alt text](/file/wise_system.pdf) -->
-  <p> • estimate incident RFI of the telescope and configure Reconfigurable Intelligent Surface(number, spacing, etc.)</p>
-  <p> • find the solution of amplitude and phase of each element of RIS to reflect incident RFI of RIS in order to cancel RFI in the telescope</p>
+  <p> • Estimate incident RFI of the telescope and configure Reconfigurable Intelligent Surface(number, spacing, etc.)</p>
+  <p> • Find the solution of amplitude and phase of each element of RIS to reflect incident RFI of RIS in order to cancel RFI in the telescope</p>
 
 <h3>Key generation</h3>
 <!--   <p> Advised by: Dr. Dola Saha 2022 – 2023</p>  -->
@@ -60,8 +60,8 @@ For more information about Not Pure Poole, please browse the [README](https://gi
      </span>
   </p>
   ![Alt text](/file/key_gen_high_level.pdf)
-  <p> • propose a Key Generation model using neural networks from wireless Channels</p>
-  <p> • extract the implicit features of channel in a compressed form to derive keys with high KGR and low KDR</p>
+  <p> • Propose a Key Generation model using neural networks from wireless Channels</p>
+  <p> • Extract the implicit features of channel in a compressed form to derive keys with high KGR and low KDR</p>
 
 <h3>Wireless steganography</h3>
 <!--   <p> Advised by: Dr. Dola Saha 2021 – 2023</p>  -->
@@ -72,10 +72,10 @@ For more information about Not Pure Poole, please browse the [README](https://gi
      </span>
   </p>
   ![Alt text](/file/wise_system.pdf)
- <p> • design a complex-valued neural network to hide the transmission of secret signals</p>
- <p> • this method has nothing to do with any properties of the covert signal (such as waveform or modulation order)</p>
- <p> • use complex-valued neural networks, which is more powerful and has a faster learning speed than real-valued neural network</p>
- <p> • transmit signals over the air and apply the transfer learning method to retrain the model again to further optimize the system and get a lower bit error rate </p>
+ <p> • Design a complex-valued neural network to hide the transmission of secret signals</p>
+ <p> • This method has nothing to do with any properties of the covert signal (such as waveform or modulation order)</p>
+ <p> • Use complex-valued neural networks, which is more powerful and has a faster learning speed than real-valued neural network</p>
+ <p> • Transmit signals over the air and apply the transfer learning method to retrain the model again to further optimize the system and get a lower bit error rate </p>
 
 <h3>Teaching human motion</h3>
 <!--  <p> Advised by: Dr. Weifu Wang 2019 – 2020</p>  -->
@@ -118,10 +118,10 @@ For more information about Not Pure Poole, please browse the [README](https://gi
     <img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="200"/><img src="/file/IMG_3668_MOV_AdobeExpress.gif" width="200"/>
 </figure>
    -->
- <p> • offer a systematic exploration of how to decompose complicated physical motions to make motion more
- <p> • interpretable and easier to learn for humans
- <p> •  build a teaching environment in a virtual environment (VR + unity)
- <p> •  use real robot teaching frontend to demonstrate motion clips(sign language, breaststroke, butterfly, etc)</p>
+ <p> • Offer a systematic exploration of how to decompose complicated physical motions to make motion more
+ <p> • Interpretable and easier to learn for humans
+ <p> • Build a teaching environment in a virtual environment (VR + unity)
+ <p> • Use real robot teaching frontend to demonstrate motion clips(sign language, breaststroke, butterfly, etc)</p>
 
  
  
