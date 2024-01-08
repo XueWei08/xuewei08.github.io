@@ -56,7 +56,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
   <p style="text-align:left;">
       Advised by: Dr. Dola Saha 
      <span style="float:right;">
-      2022 – present
+      2022 – 2023
      </span>
   </p>
   ![Alt text](/file/key_gen_high_level.pdf)
@@ -68,7 +68,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
  <p style="text-align:left;">
       Advised by: Dr. Dola Saha 
      <span style="float:right;">
-      2021 – present
+      2021 – 2023
      </span>
   </p>
   ![Alt text](/file/wise_system.pdf)
