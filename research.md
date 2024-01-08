@@ -14,6 +14,18 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 
 <!-- <h2>Research</h2> -->
 
+<h3>RIS circuit design </h3>
+  <p style="text-align:left;">
+        Advised by: Dr. Dola Saha and Dr. Aveek Dutta 
+       <span style="float:right;">
+        2023 – present
+       </span>
+  </p>
+  ![Alt text](/file/circuit.png)
+<!--   <img src="/file/DOA.png" width="200"> -->
+  <p> • Propose 3D RFI cancellation system by control the phase and amplitude to cancel incident RFI on telescope</p>
+  <p> • Provide blueprints and circuit analysis for RIS array prototyping across multiple DoAs</p>
+
 <h3>Multistage 2D DoA Estimation in Low SNR</h3>
   <p style="text-align:left;">
         Advised by: Dr. Dola Saha and Dr. Aveek Dutta 
@@ -40,7 +52,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
   <p> • find the solution of amplitude and phase of each element of RIS to reflect incident RFI of RIS in order to cancel RFI in the telescope</p>
 
 <h3>Key generation</h3>
-<!--   <p> Advised by: Dr. Dola Saha 2022 – present</p>  -->
+<!--   <p> Advised by: Dr. Dola Saha 2022 – 2023</p>  -->
   <p style="text-align:left;">
       Advised by: Dr. Dola Saha 
      <span style="float:right;">
@@ -52,7 +64,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
   <p> • extract the implicit features of channel in a compressed form to derive keys with high KGR and low KDR</p>
 
 <h3>Wireless steganography</h3>
-<!--   <p> Advised by: Dr. Dola Saha 2021 – present</p>  -->
+<!--   <p> Advised by: Dr. Dola Saha 2021 – 2023</p>  -->
  <p style="text-align:left;">
       Advised by: Dr. Dola Saha 
      <span style="float:right;">
