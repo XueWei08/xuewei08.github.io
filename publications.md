@@ -5,7 +5,7 @@ title: Publications
 
 <!-- ***Xue Wei*** -->
 Journals:
-1. \texttt{IDOL}: \underline{I}terative \underline{D}irection \underline{O}f Arrival in \underline{L}ow SNR
+1. IDOL: Iterative Direction Of Arrival in Low SNR
 <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg Aveek Dutta <br/>
 Transactions on Cognitive Communications and Networking.(Under Review)
 
