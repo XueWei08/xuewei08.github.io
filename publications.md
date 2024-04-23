@@ -6,7 +6,7 @@ title: Publications
 <!-- ***Xue Wei*** -->
 Journals:
 1. IDOL: Iterative Direction Of Arrival in Low SNR <br/>
-<strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg Aveek Dutta <br/>
+<strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg and Aveek Dutta <br/>
 Transactions on Cognitive Communications and Networking.(Under Review)
 
 2. WISE: Waveform Independent Signal Embedding for Covert Communication <br/>
