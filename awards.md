@@ -66,12 +66,12 @@ title:Awards
    </span>
 </p>
 <p style="text-align:left;">
-    2016 Third Class Scholarship 
+    2013-2016 Undergraduate Scholarship 
    <span style="float:right;">
     Xidian University
    </span>
 </p>
-<p style="text-align:left;">
+<!-- <p style="text-align:left;">
     2015 Third Class Scholarship    
    <span style="float:right;">
     Xidian University 
@@ -89,5 +89,5 @@ title:Awards
    <span style="float:right;">
     Xidian University
    </span>
-</p>
+</p> -->
 
