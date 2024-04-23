@@ -5,11 +5,15 @@ title: Publications
 
 <!-- ***Xue Wei*** -->
 Journals:
-1. WISE: Waveform Independent Signal Embedding for Covert Communication <br/>
+1. \texttt{IDOL}: \underline{I}terative \underline{D}irection \underline{O}f Arrival in \underline{L}ow SNR
+<strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg Aveek Dutta <br/>
+Transactions on Cognitive Communications and Networking.(Under Review)
+
+2. WISE: Waveform Independent Signal Embedding for Covert Communication <br/>
 <strong>Xue Wei</strong> and Dola Saha <br/>
 IEEE Transactions on Machine Learning in Communications and Networking.
 
-2. MR Image Segmentation Based on Level Set Method <br/>
+3. MR Image Segmentation Based on Level Set Method <br/>
 Jin Liu, <strong>Xue Wei</strong>, Langlang Li. <br/>
 Multimedia Tools and Applications, 79, pages 11487–11502 (2020).
 
