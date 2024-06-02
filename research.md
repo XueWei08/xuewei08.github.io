@@ -36,7 +36,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
   ![Alt text](/file/DOA.png)
 <!--   <img src="/file/DOA.png" width="200"> -->
 <!--   <p> • Propose a three stage algorithm that methodically exploits digital beamforming, creates virtual subarrays, inspects multiple options and        -->
-  introduces clustering to estimate the DoA in low SNRs</p>
+<!--   introduces clustering to estimate the DoA in low SNRs</p> -->
 
 <h3>RFI cancellation using RIS</h3>
   <p style="text-align:left;">
