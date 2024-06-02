@@ -23,8 +23,8 @@ For more information about Not Pure Poole, please browse the [README](https://gi
   </p>
   ![Alt text](/file/circuit.png)
 <!--   <img src="/file/DOA.png" width="200"> -->
-<!--   <p> • Propose 3D RFI cancellation system by control the phase and amplitude to cancel incident RFI on telescope</p>
-  <p> • Provide blueprints and circuit analysis for RIS array prototyping across multiple DoAs</p> -->
+  <p> • Propose 3D RFI cancellation system by control the phase and amplitude to cancel incident RFI on telescope</p>
+  <p> • Provide blueprints and circuit analysis for RIS array prototyping across multiple DoAs</p>
 
 <h3>Multistage 2D DoA Estimation in Low SNR</h3>
   <p style="text-align:left;">
@@ -35,8 +35,8 @@ For more information about Not Pure Poole, please browse the [README](https://gi
   </p>
   ![Alt text](/file/DOA.png)
 <!--   <img src="/file/DOA.png" width="200"> -->
-<!--   <p> • Propose a three stage algorithm that methodically exploits digital beamforming, creates virtual subarrays, inspects multiple options and        -->
-<!--   introduces clustering to estimate the DoA in low SNRs</p> -->
+  <p> • Propose a three stage algorithm that methodically exploits digital beamforming, creates virtual subarrays, inspects multiple options and        -->
+<!-- <!--   introduces clustering to estimate the DoA in low SNRs</p> -->
 
 <h3>RFI cancellation using RIS</h3>
   <p style="text-align:left;">
