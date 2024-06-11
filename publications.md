@@ -5,51 +5,58 @@ title: Publications
 
 <!-- ***Xue Wei*** -->
 Journals:
-1. IDOL: Iterative Direction Of Arrival in Low SNR <br/>
+1. <strong>IDOL: Iterative Direction Of Arrival in Low SNR <br/>
 <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg and Aveek Dutta <br/>
 Transactions on Cognitive Communications and Networking.(Under Review)
 
-2. WISE: Waveform Independent Signal Embedding for Covert Communication <br/>
+2. <strong>WISE: Waveform Independent Signal Embedding for Covert Communication <br/>
 <strong>Xue Wei</strong> and Dola Saha <br/>
 IEEE Transactions on Machine Learning in Communications and Networking.
 
-3. MR Image Segmentation Based on Level Set Method <br/>
+3. <strong>MR Image Segmentation Based on Level Set Method <br/>
 Jin Liu, <strong>Xue Wei</strong>, Langlang Li. <br/>
 Multimedia Tools and Applications, 79, pages 11487–11502 (2020).
 
 
 
-
 Conferences:
-1. RIS for Signal Cancellation in 3D <br/>
+1. <strong>Exploiting Multi-Domain Features for Detection of Unclassified Electromagnetic Signals.</strong> <br/>
+<strong>Xue Wei</strong>, Randall Reese, Anna Quach, Nicholas Kaminski and Dola Saha
+IEEE Military Communications Conference (MILCOM) 2024. (Under Review) </p>
+
+2. <strong>Joint Interference Cancellation with Imperfect CSI.</strong> <br/>
+Zhibin Zou, <strong>Xue Wei</strong>, Xin Tian, Genshe Chen, Aveek Dutta, Khanh Pham, Erik Blasch<br/>
+IEEE Military Communications Conference (MILCOM) 2024. (Under Review) </p>
+                        
+3. <strong>RIS for Signal Cancellation in 3D.</strong> <br/>
 <strong>Xue Wei</strong>, Anushka Gupta, Aveek Dutta, Dola Saha and Gregory Hellbourg <br/>
 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN) 2024.
 
-2. KNEW: Key Generation using NEural Networks from Wireless Channels <br/>
+4. <strong>KNEW: Key Generation using NEural Networks from Wireless Channels.</strong> <br/>
 <strong>Xue Wei</strong> and Dola Saha <br/>
 N2Women Workshop ACM SIGCOMM 2023
 
-3. Multistage 2D DOA Estimation in Low SNR <br/>
+5. <strong>Multistage 2D DOA Estimation in Low SNR.</strong> <br/>
 <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg, Aveek Dutta <br/>
 IEEE International Conference on Communications (ICC) 2023.
 
-4. SCISRS: Signal Cancellation using Intelligent Surfaces for Radio Astronomy Services<br/>
+6. <strong>SCISRS: Signal Cancellation using Intelligent Surfaces for Radio Astronomy Services.</strong><br/>
 Zhibin Zou, <strong>Xue Wei</strong>, Dola Saha, Aveek Dutta, Gregory Hellbourg <br/>
 in 2022 IEEE Global Communications Conference (GLOBECOM).
 
-5. KNEW: Key Generation using NEural Networks from Wireless Channels <br/>
+7. <strong>KNEW: Key Generation using NEural Networks from Wireless Channels.</strong> <br/>
 <strong>Xue Wei</strong> and Dola Saha
 in ACM Wireless Security and Machine Learning (WiseML) 2022.
 
-6. Adversarial Learning for Hiding Wireless Signals<br/>
+8. <strong>Adversarial Learning for Hiding Wireless Signals.</strong><br/>
 Hesham Mohammed, <strong>Xue Wei</strong> and Dola Saha <br/>
 in 2021 IEEE Global Communications Conference (GLOBECOM).
 
-7. A Level Set Algorithm Based on Probabilistic Statistics for MR Image Segmentation<br/>
+9. <strong>A Level Set Algorithm Based on Probabilistic Statistics for MR Image Segmentation.</strong><br/>
 Jin Liu, <strong>Xue Wei</strong>, Qi Li, Langlang Li <br/>
 in 2018 International Conference on Intelligence Science and Big Data Engineering, (2018), PP.577–586.
 
-8. Collaborative Error Propagation for Single Sample Face Recognition <br/>
+10. <strong>Collaborative Error Propagation for Single Sample Face Recognition.</strong> <br/>
 Jin Liu, Langlang Li, <strong>Xue Wei</strong> <br/>
 in 2018 International Conference on Intelligence Science and Big Data Engineering,(2018), PP. 339–348.
 
