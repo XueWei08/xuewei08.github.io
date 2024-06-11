@@ -6,8 +6,10 @@ title: Publications
 <!-- ***Xue Wei*** -->
 Journals:
 
-
-
+<!--<table style="width:120%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">-->
+<table style="width:120%;">
+    <tbody>
+      
 1. <strong>IDOL: Iterative Direction Of Arrival in Low SNR.</strong> <br/>
 <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg and Aveek Dutta <br/>
 IEEE Transactions on Cognitive Communications and Networking.(Under Review)
@@ -87,7 +89,8 @@ in 2018 International Conference on Intelligence Science and Big Data Engineerin
 Jin Liu, Langlang Li, <strong>Xue Wei</strong> <br/>
 in 2018 International Conference on Intelligence Science and Big Data Engineering,(2018), PP. 339–348.
 
-
+    </tbody>
+</table>
 
 <!-- <strong>Xue Wei</strong> -->
 <!-- <ins>Xue Wei</ins> -->
