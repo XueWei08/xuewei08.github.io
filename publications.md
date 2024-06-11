@@ -66,7 +66,7 @@ IEEE Global Communications Conference (GLOBECOM) 2022.</p>
 
 
 <p>7. <strong>KNEW: Key Generation using NEural Networks from Wireless Channels.</strong> <br/>
-<strong>Xue Wei</strong> and Dola Saha
+<strong>Xue Wei</strong> and Dola Saha<br/>
 ACM Wireless Security and Machine Learning (WiseML) 2022.</p>
 
 
