@@ -53,7 +53,6 @@ IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN) 2024.
 N2Women Workshop ACM SIGCOMM 2023.
 
 
-
 5. <strong>Multistage 2D DOA Estimation in Low SNR.</strong> <br/>
 <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg, Aveek Dutta <br/>
 IEEE International Conference on Communications (ICC) 2023.
@@ -62,31 +61,31 @@ IEEE International Conference on Communications (ICC) 2023.
 
 6. <strong>SCISRS: Signal Cancellation using Intelligent Surfaces for Radio Astronomy Services.</strong><br/>
 Zhibin Zou, <strong>Xue Wei</strong>, Dola Saha, Aveek Dutta, Gregory Hellbourg <br/>
-in 2022 IEEE Global Communications Conference (GLOBECOM).
+IEEE Global Communications Conference (GLOBECOM) 2022.
 
 
 
 7. <strong>KNEW: Key Generation using NEural Networks from Wireless Channels.</strong> <br/>
 <strong>Xue Wei</strong> and Dola Saha
-in ACM Wireless Security and Machine Learning (WiseML) 2022.
+ACM Wireless Security and Machine Learning (WiseML) 2022.
 
 
 
 8. <strong>Adversarial Learning for Hiding Wireless Signals.</strong><br/>
 Hesham Mohammed, <strong>Xue Wei</strong> and Dola Saha <br/>
-in 2021 IEEE Global Communications Conference (GLOBECOM).
+IEEE Global Communications Conference (GLOBECOM) 2021.
 
 
 
 9. <strong>A Level Set Algorithm Based on Probabilistic Statistics for MR Image Segmentation.</strong><br/>
 Jin Liu, <strong>Xue Wei</strong>, Qi Li, Langlang Li <br/>
-in 2018 International Conference on Intelligence Science and Big Data Engineering, (2018), PP.577–586.
+International Conference on Intelligence Science and Big Data Engineering (2018).
 
 
 
 10. <strong>Collaborative Error Propagation for Single Sample Face Recognition.</strong> <br/>
 Jin Liu, Langlang Li, <strong>Xue Wei</strong> <br/>
-in 2018 International Conference on Intelligence Science and Big Data Engineering,(2018), PP. 339–348.
+International Conference on Intelligence Science and Big Data Engineering (2018).
 
     </tbody>
 </table>
