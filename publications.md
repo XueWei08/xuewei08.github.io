@@ -6,7 +6,7 @@ title: Publications
 <!-- ***Xue Wei*** -->
 Journals:
 
-<table style="width:150%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<table style="width:200%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tbody>
       
 <p>1. <strong>IDOL: Iterative Direction Of Arrival in Low SNR.</strong> <br/>
