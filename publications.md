@@ -31,13 +31,13 @@ Conferences:
 
 1. <strong>Exploiting Multi-Domain Features for Detection of Unclassified Electromagnetic Signals.</strong> <br/>
 <strong>Xue Wei</strong>, Randall Reese, Anna Quach, Nicholas Kaminski and Dola Saha<br/>
-IEEE Military Communications Conference (MILCOM) 2024. (Under Review) </p>
+IEEE Military Communications Conference (MILCOM) 2024. (Under Review) 
 
 
 
 2. <strong>Joint Interference Cancellation with Imperfect CSI.</strong> <br/>
 Zhibin Zou, <strong>Xue Wei</strong>, Xin Tian, Genshe Chen, Aveek Dutta, Khanh Pham, Erik Blasch<br/>
-IEEE Military Communications Conference (MILCOM) 2024. (Under Review) </p>
+IEEE Military Communications Conference (MILCOM) 2024. (Under Review)
 
 
 
