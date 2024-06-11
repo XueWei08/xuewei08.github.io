@@ -36,7 +36,7 @@ IEEE Military Communications Conference (MILCOM) 2024. (Under Review)
 
 
 2. <strong>Joint Interference Cancellation with Imperfect CSI.</strong> <br/>
-Zhibin Zou, <strong>Xue Wei</strong>, Xin Tian, Genshe Chen, Aveek Dutta, Khanh Pham, Erik Blasch<br/>
+Zhibin Zou, <strong>Xue Wei</strong>, Xin Tian, Genshe Chen, Aveek Dutta, Khanh Pham and Erik Blasch<br/>
 IEEE Military Communications Conference (MILCOM) 2024. (Under Review)
 
 
