@@ -15,7 +15,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 <!-- <h2>Research</h2> -->
 
 <h3>RIS circuit design </h3>
-  <p style="text-align:left;">
+  <p style="text-align:left;width: 120%;">
         Advised by: Dr. Dola Saha and Dr. Aveek Dutta 
        <span style="float:right;">
         2023 – present
@@ -26,7 +26,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 <!--   <p> • Provide blueprints and circuit analysis for RIS array prototyping across multiple DoAs</p> -->
 
 <h3>Multistage 2D DoA Estimation in Low SNR</h3>
-  <p style="text-align:left;">
+ <p style="text-align:left;width: 120%;">
         Advised by: Dr. Dola Saha and Dr. Aveek Dutta 
        <span style="float:right;">
         2022 – present
@@ -38,7 +38,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 <!-- <!--   introduces clustering to estimate the DoA in low SNRs</p> -->
 
 <h3>RFI cancellation using RIS</h3>
-  <p style="text-align:left;">
+  <p style="text-align:left;width: 120%;">
         Advised by: Dr. Dola Saha and Dr. Aveek Dutta 
        <span style="float:right;">
         2022 – present
@@ -50,7 +50,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 
 <h3>Key generation</h3>
 <!--   <p> Advised by: Dr. Dola Saha 2022 – 2023</p>  -->
-  <p style="text-align:left;">
+  <p style="text-align:left;width: 120%;">
       Advised by: Dr. Dola Saha 
      <span style="float:right;">
       2022 – 2023
@@ -62,7 +62,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 
 <h3>Wireless steganography</h3>
 <!--   <p> Advised by: Dr. Dola Saha 2021 – 2023</p>  -->
- <p style="text-align:left;">
+ <p style="text-align:left;width: 120%;">
       Advised by: Dr. Dola Saha 
      <span style="float:right;">
       2021 – 2023
@@ -77,7 +77,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 
 <h3>Teaching human motion</h3>
 <!--  <p> Advised by: Dr. Weifu Wang 2019 – 2020</p>  -->
- <p style="text-align:left;">
+ <p style="text-align:left;width: 120%;">
       Advised by: Dr. Weifu Wang 
      <span style="float:right;">
       2019 – 2020
