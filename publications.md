@@ -6,39 +6,14 @@ title: Publications
 <!-- ***Xue Wei*** -->
 Journals:
 
-<div style="width: 120%; text-indent: 20px;">
-    1. <strong>IDOL: Iterative Direction Of Arrival in Low SNRIterative Direction Of Arrival in Low SNR.</strong> <br/>
-</div>
-<div style="width: 120%; text-indent: 20px;">
-    <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg and Aveek Dutta <br/>
-</div>
-<div style="width: 120%; text-indent: 20px;">
-    IEEE Transactions on Cognitive Communications and Networking.(Under Review)
-</div>
 
 <div style="width: 120%;">
     1. <strong>IDOL: Iterative Direction Of Arrival in Low SNRIterative Direction Of Arrival in Low SNR.</strong> <br/>
     <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg and Aveek Dutta <br/>
     IEEE Transactions on Cognitive Communications and Networking.(Under Review)
-</div>
 
-<div style="width: 170%; margin-left: auto; margin-right: auto;text-indent: 20px;">
-    1. <strong>IDOL: Iterative Direction Of Arrival in Low SNRIterative Direction Of Arrival in Low SNR.</strong> <br/>
-    <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg and Aveek Dutta <br/>
-    IEEE Transactions on Cognitive Communications and Networking.(Under Review)
-</div>
 
-<div style="width: 70%; margin-left: auto; margin-right: auto;text-indent: 20px;">
-    1. <strong>IDOL: Iterative Direction Of Arrival in Low SNRIterative Direction Of Arrival in Low SNR.</strong> <br/>
-    <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg and Aveek Dutta <br/>
-    IEEE Transactions on Cognitive Communications and Networking.(Under Review)
-</div>
-
-<div style="width: 150%;text-indent: 20px;">
-    1. <strong>IDOL: Iterative Direction Of Arrival in Low SNRIterative Direction Of Arrival in Low SNR.</strong> <br/>
-    <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg and Aveek Dutta <br/>
-    IEEE Transactions on Cognitive Communications and Networking.(Under Review)
-</div>
+<!--<div style="width: 170%; margin-left: auto; margin-right: auto;text-indent: 20px;">-->
       
 1. <strong>IDOL: Iterative Direction Of Arrival in Low SNR.</strong> <br/>
 <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg and Aveek Dutta <br/>
@@ -119,7 +94,7 @@ Jin Liu, Langlang Li, <strong>Xue Wei</strong> <br/>
 International Conference on Intelligence Science and Big Data Engineering (2018).
 
 
-
+</div>
 
 <!-- <strong>Xue Wei</strong> -->
 <!-- <ins>Xue Wei</ins> -->
