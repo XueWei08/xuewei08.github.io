@@ -23,13 +23,19 @@ title:Awards
 
 * 2013 Third Class Scholarship  &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;  Xidian University -->
 
-<p style="text-align:left;">
+<p style="width: 120%;">
+    1. <strong>IDOL: Iterative Direction Of Arrival in Low SNRIterative Direction Of Arrival in Low SNR.</strong> <br/>
+    <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg and Aveek Dutta <br/>
+    IEEE Transactions on Cognitive Communications and Networking.(Under Review)
+</p>
+
+<p style="text-align:left;width: 120%;">
     ACM SIGCOMM 2023 Student Travel Grant 
    <span style="float:right;">
     SIGCOMM2023
    </span>
 </p>
-<p style="text-align:left;">
+<p style="text-align:left;width: 120%;">
     ACM WiSec2022 Student Travel Grants
    <span style="float:right;">
     Wisec2022
