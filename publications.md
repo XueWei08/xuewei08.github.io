@@ -6,6 +6,12 @@ title: Publications
 <!-- ***Xue Wei*** -->
 Journals:
 
+<div style="width: 50%; margin-left: auto; margin-right: auto;">
+    1. <strong>IDOL: Iterative Direction Of Arrival in Low SNRIterative Direction Of Arrival in Low SNR.</strong> <br/>
+    <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg and Aveek Dutta <br/>
+    IEEE Transactions on Cognitive Communications and Networking.(Under Review)
+</div>
+
 <div style="width: 150%;text-indent: 20px;">
     1. <strong>IDOL: Iterative Direction Of Arrival in Low SNRIterative Direction Of Arrival in Low SNR.</strong> <br/>
     <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg and Aveek Dutta <br/>
