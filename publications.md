@@ -11,14 +11,15 @@ Journals:
     1. <strong>IDOL: Iterative Direction Of Arrival in Low SNRIterative Direction Of Arrival in Low SNR.</strong> <br/>
     <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg and Aveek Dutta <br/>
     IEEE Transactions on Cognitive Communications and Networking.(Under Review)
-
+</div>
 
 <!--<div style="width: 170%; margin-left: auto; margin-right: auto;text-indent: 20px;">-->
-      
-1. <strong>IDOL: Iterative Direction Of Arrival in Low SNR.</strong> <br/>
-<strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg and Aveek Dutta <br/>
-IEEE Transactions on Cognitive Communications and Networking.(Under Review) 
 
+<div style="width: 120%;">
+      1. <strong>IDOL: Iterative Direction Of Arrival in Low SNR.</strong> <br/>
+      <strong>Xue Wei</strong>, Dola Saha, Gregory Hellbourg and Aveek Dutta <br/>
+      IEEE Transactions on Cognitive Communications and Networking.(Under Review) 
+</div>
 
 
 2. <strong>WISE: Waveform Independent Signal Embedding for Covert Communication.</strong> <br/>
@@ -94,7 +95,7 @@ Jin Liu, Langlang Li, <strong>Xue Wei</strong> <br/>
 International Conference on Intelligence Science and Big Data Engineering (2018).
 
 
-</div>
+
 
 <!-- <strong>Xue Wei</strong> -->
 <!-- <ins>Xue Wei</ins> -->
