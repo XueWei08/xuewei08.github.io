@@ -58,7 +58,8 @@ IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN) 2024.
 <p style="width: 120%;">
 4. <strong>KNEW: Key Generation using NEural Networks from Wireless Channels.</strong> <br/>
 <strong>Xue Wei</strong> and Dola Saha <br/>
-N2Women Workshop ACM SIGCOMM 2023.
+<!-- N2Women Workshop ACM SIGCOMM 2023. -->
+ACM SIGCOMM 2023 (workshop).
 </p>
 
 <p style="width: 120%;">
