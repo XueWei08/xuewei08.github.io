@@ -24,6 +24,14 @@ title:Awards
 * 2013 Third Class Scholarship  &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;  Xidian University -->
 
 
+
+<p style="text-align:left;width: 120%;">
+    MILCOM 2024 ComSoc Student Travel Grant 
+   <span style="float:right;">
+    MILCOM2024
+   </span>
+</p>
+
 <p style="text-align:left;width: 120%;">
     ACM SIGCOMM 2023 Student Travel Grant 
    <span style="float:right;">
